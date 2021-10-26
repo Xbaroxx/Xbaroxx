@@ -1,5 +1,7 @@
-### Hi there I'm' X•Barox 👋
-# notice 📝
+### Hallo My Friend
+#### I'am X•Barox 👋
+<p align="center">
+  <img src="https://telegra.ph/file/8be76ad03546863fbbcbd.jpg">
 
 - 🌱 I’m currently learning :-> Python
 - 💬 Ask me about :-> noob noob noob
