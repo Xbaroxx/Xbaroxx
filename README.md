@@ -1,4 +1,4 @@
-### Hi there I'm' [X•Barox]👋
+### Hi there I'm' X•Barox 👋
 # notice 📝
 
 - 🌱 I’m currently learning :-> C++ & Python
