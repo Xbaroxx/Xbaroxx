@@ -1,7 +1,7 @@
 ### Hi there I'm' X•Barox 👋
 # notice 📝
 
-- 🌱 I’m currently learning :-> C++ & Python
+- 🌱 I’m currently learning :-> Python
 - 💬 Ask me about :-> noob noob noob
 - 📫 How to reach me:--> Telegram [@Xbaroxx](t.me/Xbarok)
 
