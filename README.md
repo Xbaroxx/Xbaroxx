@@ -44,7 +44,6 @@
   <br />
   <code><img width="10%"  src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
   <code><img width="10%"  src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
-  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
   <br />
   <br>
 </p>  
