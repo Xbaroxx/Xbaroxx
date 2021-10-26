@@ -11,15 +11,6 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Xbaroxx&show_icons=true&include_all_commits=true&cache_seconds=86400&theme=radica)
 
 
-## 🌐 **Top Languages that I used**
-</p>
-<p align="center"><a href="https://github.com/Xbaroxx"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xbaroxx&theme=radical&layout=compact"></a></p>
-
-
-## 🕒 **Wakatime Stats**
-</p>
-<p align="center"><a href="https://github.com/ridho17-ind"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridho17-ind&theme=radical&layout=compact"></a></p>
-
 ## **what I use?** </h>
 <p align="left"/p> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> </p>
 
