@@ -12,7 +12,8 @@
 
 
 ## 🌐 **Top Languages that I used**
-[![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Oxidisedman&show_icons=true&theme=radical&layout=compact)](https://github.com/Xbaroxx)
+</p>
+<p align="center"><a href="https://github.com/Xbaroxx"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xbaroxx&theme=radical&layout=compact"></a></p>
 
 
 ## 🕒 **Wakatime Stats**
