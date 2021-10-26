@@ -3,12 +3,12 @@
 
 - 🌱 I’m currently learning :-> C++ & Python
 - 💬 Ask me about :-> noob
-- 📫 How to reach me:--> Telegram [@Oxidisedman](t.me/Oxidisedman)
+- 📫 How to reach me:--> Telegram [@Xbaroxx](t.me/Xbarok)
 
-[![telegram badge](https://img.shields.io/badge/Oxidisedman-30302f?style=flat&logo=telegram)](https://t.me/Oxidisedman)
+[![telegram badge](https://img.shields.io/badge/Xbaroxx-30302f?style=flat&logo=telegram)](https://t.me/Xbarok)
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Oxidisedman&show_icons=true&include_all_commits=true&cache_seconds=86400&theme=radica)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Xbaroxx&show_icons=true&include_all_commits=true&cache_seconds=86400&theme=radica)
 
 
 ## 🌐 **Top Languages that I used**
@@ -29,11 +29,11 @@
 - ![TELETHON](https://img.shields.io/badge/Telethon-ffffff.svg?logo=data:image/svg+xml;base64,PCEtLSBMb2dvIGhhbmQtbWFkZSBieSBMb25hbWkgKEMpIExvbmFtaVdlYnMgMjAxOCwgdGlkaWVkIHVwIGJ5IEp1YW5Qb3RhdG8gLS0+Cjxzdmcgdmlld0JveD0iMCAwIDEwMCAxMDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCIgaGVpZ2h0PSIxMDAiPgogIDxjaXJjbGUgY3g9IjUwIiBjeT0iNTAiIHI9IjQ1IiBmaWxsPSIjMzc3N2IwIiAvPgogIDxwYXRoIGQ9Ik0yMCAzMCBoNjAgdjEwIGwtMiAyIGgtMTcuNSBsLTEwLjUgNDMgbC0yIDIgbC0xMi41IC00NSBoLTE3LjUgdi0xMCIgZmlsbD0iI2YwYTcyNyIvPgogIDxwYXRoIGQ9Ik0yMCAzMCBoNjAgdjEwIGgtMTcuNSBsLTEyLjUgNDUgbC0xMi41IC00NSBoLTE3LjUgdi0xMCIgZmlsbD0iI2ZmZDc1MCIvPgo8L3N2Zz4K)&nbsp;&nbsp;
 
 # GITHUB STATUS 2K21 ☹️
-- ![Profile views](https://gpvc.arturio.dev/Oxidisedman)
+- ![Profile views](https://gpvc.arturio.dev/Xbaroxx)
 
 <p>
-  <a href="https://github.com/Oxidisedman/handle-path-oz">
-    <img width="55%" align="left" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=Oxidisedman&show_icons=true&hide_border=true" />
+  <a href="https://github.com/Xbaroxx/handle-path-oz">
+    <img width="55%" align="left" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=Xbaroxx&show_icons=true&hide_border=true" />
   </a>
 </p>
 <p align ="right">
@@ -53,6 +53,6 @@
 </p>  
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Oxidisedman&show_icons=true&locale=en" alt="Oxidisedman" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Xbaroxx&show_icons=true&locale=en" alt="Xbaroxx" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Oxidisedman&" alt="Oxidisedman" />
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Xbaroxx&" alt="Xbaroxx" />
