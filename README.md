@@ -1,8 +1,8 @@
-### Hi there 👋
+### Hi there I'm' [X•Barox]👋
 # notice 📝
 
 - 🌱 I’m currently learning :-> C++ & Python
-- 💬 Ask me about :-> noob
+- 💬 Ask me about :-> noob noob noob
 - 📫 How to reach me:--> Telegram [@Xbaroxx](t.me/Xbarok)
 
 [![telegram badge](https://img.shields.io/badge/Xbaroxx-30302f?style=flat&logo=telegram)](https://t.me/Xbarok)
